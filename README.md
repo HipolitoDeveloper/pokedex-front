@@ -7,7 +7,7 @@ Essa é uma aplicação que consome a API de pokemons. Nela você pode visualiza
 
 ## Tecnologias
 - ReactJS
--
+
 ## Inicialização da Aplicação
 
 Dê o clone do projeto através do comando
